@@ -1,2 +1,3 @@
 # guice-servlet-fix
-Fix problem for multiple GuiceFilter in guice-servlet
+
+One more way to fix terrrible "Multiple Servlet injectors detected"
